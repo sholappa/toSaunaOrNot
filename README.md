@@ -8,6 +8,6 @@ The script is designed to be run once a day with Cron or Task Scheduler. Once ru
 
 Technologies Used:
 
-Python for scripting and web scraping.
-BeautifulSoup and requests libraries to parse HTML.
+Python for scripting and web scraping.<br>
+BeautifulSoup and requests libraries to parse HTML.<br>
 Cron to schedule the scraper to run at regular intervals.
