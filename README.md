@@ -4,10 +4,10 @@ This small project is a Python-based web scraper designed to fetch Finnish elect
 
 How to use:
 
-    The script is designed to be run once a day with Cron or Task Scheduler. Once run a .csv file will be saved to root folder and the earlier file will be removed in the process.
+The script is designed to be run once a day with Cron or Task Scheduler. Once run a .csv file will be saved to root folder and the earlier file will be removed in the process.
 
 Technologies Used:
 
-    Python for scripting and web scraping.
-    BeautifulSoup and requests libraries to parse HTML.
-    Cron to schedule the scraper to run at regular intervals.
+Python for scripting and web scraping.
+BeautifulSoup and requests libraries to parse HTML.
+Cron to schedule the scraper to run at regular intervals.
