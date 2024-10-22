@@ -1,4 +1,4 @@
-**toSaunaOrNotToSauna**
+**toSaunaOrNot**
 
 This small project is a Python-based web scraper designed to fetch Finnish electricity prices for the current day and save them into a .csv file. It serves as a practical exercise to learn web scraping and automate tasks using cron scheduling. 
 
